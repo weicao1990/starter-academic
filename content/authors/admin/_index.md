@@ -1,6 +1,6 @@
 ---
 title: Wei Cao
-role: Senior Research
+role: Senior Researcher
 avatar_filename: avatar_hu32e7c6465b33f2f9d4d3d13413997e52_1357217_250x250_fill_q90_lanczos_center.jpg
 bio: My research interests include data mining, deep learning.
 interests:
