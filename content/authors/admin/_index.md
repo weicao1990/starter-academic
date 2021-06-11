@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data mining, deep learning.
+bio: ""
 
 interests:
-- Time Series Prediction
-- Tabular Data Processing
-- Quantitive Trading
+- Time Series Forecasting
+- Graph Neural Network
+- Intelligent Health-care
 
 education:
   courses:
@@ -64,8 +64,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a researcher at Microsoft Research Asia (MSRA), Machine Learning Group, headed by Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). I received my Ph.D. degree from Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University in 2018, under the supervision of Prof. [Jian Li](http://people.iiis.tsinghua.edu.cn/~jianli/). Before that, I received the B. Sc degree from Department of Computer Science at Wuhan University in 2013.
+I am currently a senior researcher at Microsoft Research Asia (MSRA), Machine Learning Group, headed by Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). I received my Ph.D. degree from Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University in 2018, under the supervision of Prof. [Jian Li](http://people.iiis.tsinghua.edu.cn/~jianli/). Before that, I received the B. Sc degree from Department of Computer Science at Wuhan University in 2013.
 
-I have a wide range of research interests on applied machine learning, including Quantitive Trading, Intelligent Logistics, Networking Optimization etc. In the past one year, we cooperated with China-AMC, China-Taiping, Shunfeng-Tech, FETnet and many other compannies, to together explore the new opportunities for AI in different domains. I really enjoy solving real industrial problems from various areas with AI technique.
+I have a wide range of research interests on applied machine learning, including Quantitive Trading, Intelligent Health-Care, Logistics Optimization etc. In the past years, we co-worked with many leading companies in various fields, including China-AMC, Shunfeng Tech, Humana, SANOFI, etc., to explore the opportunities of applying AI in the corresponding scenarios. I really enjoy solving real industrial problems from various areas with AI technique.
 
-***HIRING:*** I am seeking for self-motived interns who have interests on time series, tabular data and autoML. Feel free to contact me if you are interested.
