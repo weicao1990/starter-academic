@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Life"
+title = "Hobby"
 subtitle = ""
 
 [design]
@@ -50,8 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I usually spend time on various sports during my spare time, espcially the cyclying and jogging. I am one of the members in [Tsinghua Cycling Club](https://www.strava.com/clubs/tsinghua_cycling_club). You can find my strava [here](https://www.strava.com/athletes/39523325). 
+Both I and my wife are big fans of sports, especially the cycling. I am still a member of [Tsinghua Cycling Club](https://www.strava.com/clubs/tsinghua_cycling_club). You can find my strava [here](https://www.strava.com/athletes/39523325). 
 
-Specially, I would like to thank my girl friend Elly. She is both an excellent office lady and a big sports fan. She supports me a lot no matter on my work or life :heart: .
 
-{{< figure library="true" src="wei_and_elly.png" lightbox="true" >}}
+{{< figure library="true" src="itt.jpg" lightbox="true" >}}
