@@ -53,4 +53,4 @@ subtitle = ""
 I am a big fan of sports (as well as my cute wife :smile:), especially the cycling. I am a member of [Tsinghua Cycling Club](https://www.strava.com/clubs/tsinghua_cycling_club). You can find my strava [here](https://www.strava.com/athletes/39523325). 
 
 
-{{< figure library="true" src="https://raw.githubusercontent.com/weicao1990/starter-academic/master/static/uploads/itt.jpg" lightbox="true" width="50%">}}
+{{< figure library="true" src="uploads/itt.jpg" lightbox="true" width="50%">}}
