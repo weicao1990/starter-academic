@@ -15,6 +15,9 @@ main:
     weight: 20
   - name: Hobby
     url: '#life'
+    weight: 50
+  - name: Projects
+    url: '#projects'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
