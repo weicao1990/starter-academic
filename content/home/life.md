@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Both I and my wife are big fans of sports, especially the cycling. I am still a member of [Tsinghua Cycling Club](https://www.strava.com/clubs/tsinghua_cycling_club). You can find my strava [here](https://www.strava.com/athletes/39523325). 
+I am a big fan of sports (as well as my cute wife :smile:), especially the cycling. I am a member of [Tsinghua Cycling Club](https://www.strava.com/clubs/tsinghua_cycling_club). You can find my strava [here](https://www.strava.com/athletes/39523325). 
 
 
-{{< figure library="true" src="itt.jpg" lightbox="true" >}}
+{{< figure library="true" src="https://raw.githubusercontent.com/weicao1990/starter-academic/master/static/uploads/itt.jpg" lightbox="true" >}}
