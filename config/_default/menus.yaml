@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: Hobby
+    url: '#life'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
