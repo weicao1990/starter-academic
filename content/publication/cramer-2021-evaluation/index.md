@@ -1,19 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Trimming the Sail: A Second-order Learning Paradigm for Stock Prediction'
+title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality
+  in the US
 subtitle: ''
 summary: ''
 authors:
-- Chi Chen
-- Li Zhao
-- Wei Cao
-- Jiang Bian
-- Chunxiao Xing
+- Estee Y Cramer
+- Evan L Ray
+- Velma K Lopez
+- Johannes Bracher
+- Andrea Brennen
+- Alvaro J Castro Rivadeneira
+- Aaron Gerding
+- Tilmann Gneiting
+- Katie H House
+- Yuxin Huang
+- ' others'
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-06-11T16:55:29+08:00
+date: '2021-01-01'
+lastmod: 2022-02-21T21:29:55+08:00
 featured: false
 draft: false
 
@@ -31,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-11T08:55:29.319677Z'
+publishDate: '2022-02-21T13:29:54.940164Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2002.06878*'
+publication: '*Proceedings of the National Academy of Sciences*'
 ---

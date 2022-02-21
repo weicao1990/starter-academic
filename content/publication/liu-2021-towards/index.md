@@ -1,20 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'LMVP: Video Predictor with Leaked Motion Information'
+title: Towards Inter-class and Intra-class Imbalance in Class-imbalanced Learning
 subtitle: ''
 summary: ''
 authors:
-- Dong Wang
-- Yitong Li
+- Zhining Liu
+- Pengfei Wei
+- Zhepei Wei
+- Boyang Yu
+- Jing Jiang
 - Wei Cao
-- Liqun Chen
-- Qi Wei
-- Lawrence Carin
+- Jiang Bian
+- Yi Chang
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-02-21T21:29:59+08:00
+date: '2021-01-01'
+lastmod: 2022-02-21T21:29:56+08:00
 featured: false
 draft: false
 
@@ -32,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-21T13:29:58.799966Z'
+publishDate: '2022-02-21T13:29:55.830691Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*NIPS Workshop*'
+publication: '*arXiv preprint arXiv:2111.12791*'
 ---

@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'LMVP: Video Predictor with Leaked Motion Information'
+title: 'HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend
+  Forecasting'
 subtitle: ''
 summary: ''
 authors:
-- Dong Wang
-- Yitong Li
+- Shun Zheng
+- Zhifeng Gao
 - Wei Cao
-- Liqun Chen
-- Qi Wei
-- Lawrence Carin
+- Jiang Bian
+- Tie-Yan Liu
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-02-21T21:29:59+08:00
+date: '2021-01-01'
+lastmod: 2022-02-21T21:29:55+08:00
 featured: false
 draft: false
 
@@ -32,9 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-21T13:29:58.799966Z'
+publishDate: '2022-02-21T13:29:55.534917Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*NIPS Workshop*'
+publication: '*Proceedings of the 30th ACM International Conference on Information
+  & Knowledge Management*'
 ---

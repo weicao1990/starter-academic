@@ -50,16 +50,16 @@ social:
   link: https://www.strava.com/athletes/39523325
 
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
@@ -69,3 +69,4 @@ I am currently a senior researcher at Microsoft Research Asia (MSRA), Machine Le
 I have a wide range of research interests on applied machine learning, including Quantitive Trading, Intelligent Health-Care, Logistics Optimization etc. In the past years, we co-worked with many leading companies in various fields to explore the opportunities of AI in the corresponding scenarios, including China-AMC, Shunfeng Tech, Humana and Sanofi, etc.
 
 ***HIRING***: I am seeking for self-motived interns who have interests on time series, tabular data and autoML. Feel free to contact me if you are interested.
+
