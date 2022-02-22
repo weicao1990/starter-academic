@@ -12,13 +12,10 @@ main:
     weight: 30
   - name: Experience
     url: '#experience'
-    weight: 20
+    weight: 35
   - name: Hobby
     url: '#life'
     weight: 50
-  - name: Projects
-    url: '#projects'
-    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
